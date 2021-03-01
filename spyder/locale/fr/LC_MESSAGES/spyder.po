@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-02-16 00:08-0500\n"
-"PO-Revision-Date: 2021-03-01 21:36\n"
+"PO-Revision-Date: 2021-03-01 21:42\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -1130,7 +1130,7 @@ msgstr "Rejeter pour toujours"
 
 #: spyder/plugins/completion/kite/widgets/install.py:73
 msgid "Now Spyder can use Kite to provide better code completions for key packages in the scientific Python Ecosystem. Install Kite for a better editor experience in Spyder. <br><br>Kite is free to use but is not open source. <a href=\"{kite_url}\">Learn more about Kite </a>"
-msgstr ""
+msgstr "Spyder peut désormais utiliser Kite pour fournir de meilleurs compléments de code pour les paquets clés de l'écosystème scientifique Python. Installez Kite pour une meilleure expérience dans l'éditeur de Spyder. <br><br>Kite est libre d'utilisation mais n'est pas open source. <a href=\"{kite_url}\">En savoir plus sur Kite </a>"
 
 #: spyder/plugins/completion/kite/widgets/install.py:179
 msgid "Downloading"
@@ -1327,7 +1327,7 @@ msgstr "La valeur par défaut est 79"
 
 #: spyder/plugins/completion/languageserver/confpage.py:216
 msgid "Show vertical line at that length"
-msgstr ""
+msgstr "Afficher la ligne verticale à cette longueur"
 
 #: spyder/plugins/completion/languageserver/confpage.py:239
 msgid "Code style"
@@ -1335,7 +1335,7 @@ msgstr "Style du code"
 
 #: spyder/plugins/completion/languageserver/confpage.py:247
 msgid "Line length"
-msgstr ""
+msgstr "Longueur de ligne"
 
 #: spyder/plugins/completion/languageserver/confpage.py:264
 msgid "Spyder can use {0}, {1} or {2} to format your code for conformance to the {3} convention."
@@ -1527,7 +1527,7 @@ msgstr "Introspection"
 
 #: spyder/plugins/completion/languageserver/confpage.py:633
 msgid "Code style and formatting"
-msgstr ""
+msgstr "Style de code et mise en forme"
 
 #: spyder/plugins/completion/languageserver/confpage.py:635
 msgid "Docstring style"
@@ -3346,7 +3346,7 @@ msgstr "Afficher la date de modification"
 
 #: spyder/plugins/explorer/widgets/explorer.py:1798
 msgid "Filter filenames"
-msgstr ""
+msgstr "Filtrer les noms de fichiers"
 
 #: spyder/plugins/explorer/widgets/fileassociations.py:113
 msgid "Browse..."
@@ -4332,7 +4332,7 @@ msgstr "Une erreur est survenue, consultez la console."
 
 #: spyder/plugins/ipythonconsole/widgets/namespacebrowser.py:95
 msgid "The comm channel is not working."
-msgstr ""
+msgstr "Le canal de communication ne fonctionne pas."
 
 #: spyder/plugins/ipythonconsole/widgets/namespacebrowser.py:96
 msgid "%s.<br><br>Note: Please don't report this problem on Github, there's nothing to do about it."
@@ -4360,7 +4360,7 @@ msgstr "Les données sont trop volumineuses pour être sauvegardées"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:36
 msgid "Keep Existing Kernels"
-msgstr ""
+msgstr "Garder les noyaux existants"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:37
 msgid "Restart Current Kernel"
