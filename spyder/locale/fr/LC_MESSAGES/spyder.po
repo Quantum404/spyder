@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-02-16 00:08-0500\n"
-"PO-Revision-Date: 2021-02-16 17:48\n"
+"PO-Revision-Date: 2021-03-01 21:36\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -722,7 +722,7 @@ msgstr "Pour lancer la visite, appuyez sur le bouton vert à gauche de la barre 
 
 #: spyder/app/tour.py:1432
 msgid "Check out our interactive tour to explore some of Spyder's panes and features."
-msgstr ""
+msgstr "Consultez notre visite interactive pour découvrir les fonctionnalités et les panneaux de Spyder."
 
 #: spyder/app/tour.py:1443
 msgid "Start tour"
@@ -966,7 +966,7 @@ msgstr "Noyaux Jupyter pour la console Spyder"
 
 #: spyder/dependencies.py:226
 msgid "Compute distances between strings"
-msgstr ""
+msgstr "Calcule les distances entre les chaînes"
 
 #: spyder/dependencies.py:230
 msgid "3-way merge algorithm to merge document changes"
