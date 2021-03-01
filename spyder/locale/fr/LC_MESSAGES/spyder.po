@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: spyder\n"
 "POT-Creation-Date: 2021-02-16 00:08-0500\n"
-"PO-Revision-Date: 2021-03-01 21:48\n"
+"PO-Revision-Date: 2021-03-01 21:58\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "MIME-Version: 1.0\n"
@@ -4372,7 +4372,7 @@ msgstr "Redémarrer tous les noyaux"
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:43
 msgid "By default, some IPython console preferences will be applied to new consoles only. To apply preferences to existing consoles, select from the options below.<br><br>Please note: applying changes to running consoles will force a kernel restart and all current work will be lost."
-msgstr ""
+msgstr "Par défaut, certaines préférences de la console IPython ne seront appliquées qu'aux nouvelles consoles. Pour appliquer les préférences aux consoles existantes, sélectionnez les options ci-dessous.<br><br>Important: l'application des modifications aux consoles en cours d'exécution forcera le redémarrage du noyau et que tout le travail en cours sera perdu."
 
 #: spyder/plugins/ipythonconsole/widgets/restartdialog.py:54
 msgid "Apply to current console and restart kernel"
